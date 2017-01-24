@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B402395D1E37860B003D3531 /* FacialExpression.swift in Sources */ = {isa = PBXBuildFile; fileRef = B402395C1E37860B003D3531 /* FacialExpression.swift */; };
 		B40E40611E36554900D75184 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B40E40601E36554900D75184 /* AppDelegate.swift */; };
 		B40E40631E36554900D75184 /* FaceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B40E40621E36554900D75184 /* FaceViewController.swift */; };
 		B40E40661E36554900D75184 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B40E40641E36554900D75184 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B402395C1E37860B003D3531 /* FacialExpression.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FacialExpression.swift; sourceTree = "<group>"; };
 		B40E405D1E36554900D75184 /* FaceIt.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FaceIt.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B40E40601E36554900D75184 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B40E40621E36554900D75184 /* FaceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FaceViewController.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				B40E40621E36554900D75184 /* FaceViewController.swift */,
 				B40E40731E36575200D75184 /* FaceView.swift */,
+				B402395C1E37860B003D3531 /* FacialExpression.swift */,
 				B40E40641E36554900D75184 /* Main.storyboard */,
 				B40E40721E36563100D75184 /* Supporting Files */,
 			);
@@ -149,6 +152,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B40E40631E36554900D75184 /* FaceViewController.swift in Sources */,
+				B402395D1E37860B003D3531 /* FacialExpression.swift in Sources */,
 				B40E40611E36554900D75184 /* AppDelegate.swift in Sources */,
 				B40E40741E36575200D75184 /* FaceView.swift in Sources */,
 			);
@@ -314,6 +318,7 @@
 				B40E40711E36554900D75184 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
