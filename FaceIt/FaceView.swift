@@ -114,8 +114,6 @@ class FaceView: UIView {
         return path
     }
     
-    static let SkullRadiusToBrowOffset: CGFloat = 5
-    
     private func pathForBrow(eye: Eye) -> UIBezierPath {
         var tilt = eyeBrowTilt
         switch eye {
