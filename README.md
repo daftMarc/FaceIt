@@ -18,8 +18,6 @@ This application is the result of Stanford University course "Developing iOS 9 A
 - Universal Application (i.e. different UIs on iPad and iPhone in the same application) Split View Controller
 - Navigation Controller
 - Segues
-- Property List
-- Subclassing UIView
 - Drawing with UIBezierPath and/or Core Graphics
 - CGFloat/CGPoint/CGSize/CGRect
 - Gestures
